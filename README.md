@@ -101,5 +101,5 @@ identical name but with 'Discogs' appended.
 ### mergeDiscogs.py
 
 The purpose of this script is to merge together multiple ODS files
-created by the `requestsDiscogsSearch.py` program into a single ODS file 
-- named 'summary.ODS'.
+created by the `requestsDiscogsSearch.py` program into a single ODS file - 
+named 'summary.ODS'.
