@@ -9,7 +9,7 @@ process for doing this was approximately:
     records from the same label).
 2.  Place these photos into a folder for that set (e.g. 'Set\_1'). Then
     move them into a subdirectory named 'Original'.
-3.  Run the `auto\_crop\_rename.sh` script in the set directory.
+3.  Run the `auto_crop_rename.sh` script in the set directory.
 4.  Run the `automatedExtract.sh` script (from the parent directory) to
     extract text for all the records in that set.
 5.  Run the `processText.py` program to collate the details for all the
@@ -101,5 +101,5 @@ identical name but with 'Discogs' appended.
 ### mergeDiscogs.py
 
 The purpose of this script is to merge together multiple ODS files
-created by the `requestsDiscogsSearch.py` program into a single ODS file
--- named 'summary.ODS'.
+created by the `requestsDiscogsSearch.py` program into a single ODS file 
+- named 'summary.ODS'.
